@@ -43,11 +43,11 @@
     "fsevents": "^1.2.7"
   }
   "repository": {
-    "type": "git",
+    "type": "git"
     "url": "https://github.com/salmanspice/hospital_Managment-Node.js.git"
   },
-  "bugs": {
-    "url": "https://github.com/RajivSavio007/hospital_Managment-Node.js/issues"
-  },
-  "homepage": "https://github.com/RajivSavio007/hospital_Managment-Node.js#readme"
-}
+  //"bugs": {
+    //"url": "https://github.com/RajivSavio007/hospital_Managment-Node.js/issues"
+  //},
+  //"homepage": "https://github.com/RajivSavio007/hospital_Managment-Node.js#readme"
+//}
